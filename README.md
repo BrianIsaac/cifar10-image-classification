@@ -1,7 +1,7 @@
 # CIFAR-10 Classification Project
 
 **Name:** Brian Isaac Kam
-**Email:** isaacb_kam_jk@aiap.sg
+**Email:** isaacbikjk@gmail.com
 
 ---
 
