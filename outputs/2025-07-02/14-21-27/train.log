@@ -1,0 +1,8 @@
+[2025-07-02 14:21:27,626][__main__][INFO] - Setting up logging configuration.
+[2025-07-02 14:21:27,626][general_utils][ERROR] - [Errno 2] No such file or directory: '/home/brian-isaac/Documents/all-assignments/assignment5/A5P6_Hands-on-Project-Repository/conf/logging.yaml'
+[2025-07-02 14:21:27,626][general_utils][ERROR] - Logging config file is not found. Basic config is being used.
+[2025-07-02 14:21:29,041][general_utils][INFO] - MLflow initialisation has succeeded.
+[2025-07-02 14:21:29,041][general_utils][INFO] - UUID for MLflow run: 2b938ef11fd74caa8977bafbe5952e21
+[2025-07-02 14:21:30,801][__main__][INFO] - Train loader: 1250 batches | Val loader: 313 batches
+[2025-07-02 14:21:30,801][__main__][INFO] - Using device: cuda, for training
+[2025-07-02 14:21:30,802][__main__][INFO] - Epoch 1/5 starting...

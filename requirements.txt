@@ -1,0 +1,27 @@
+# Data and scientific computing
+numpy
+pandas
+scikit-learn
+matplotlib
+PyYAML
+
+# PyTorch and torchvision
+torch
+torchvision
+
+# Albumentations
+albumentations
+
+# MLflow
+mlflow
+
+# Hydra
+hydra-core
+omegaconf
+
+# Utilities
+tqdm
+
+# Additional note:
+# If your environment uses CUDA, install torch with specific CUDA version:
+# e.g. pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
