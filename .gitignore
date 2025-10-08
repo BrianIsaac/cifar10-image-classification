@@ -1,0 +1,5 @@
+# files we shouldnt push
+*data/
+*logs/
+*models/
+*outputs/
